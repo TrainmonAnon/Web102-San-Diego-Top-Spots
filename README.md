@@ -1,0 +1,1 @@
+This is a project from Web102 where it displays a list of San Diego top spots from a file, and each listing includes a Google Maps link to the site.
